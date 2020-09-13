@@ -1,0 +1,60 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+#v{
+padding:6;
+color:aquamarine;
+background-color:blue;
+margin-top:10px;
+box-shadow:5px 5px 5px black;
+font-size:25px;
+}
+#t{
+padding:6;
+color:green;
+background-color:blue;
+margin-top:10px;
+box-shadow:5px 5px 5px white;
+font-size:20px;
+}
+#b{
+padding:6;
+color:green;
+background-color:blue;
+margin-top:10px;
+box-shadow:5px 5px 5px white;
+font-size:15px; 
+margin-left:150px;
+font-size:20px;
+}
+#s{
+    padding:6;
+    color:green;
+    background-color:blue;
+    margin-top:10px;
+    box-shadow:5px 5px 5px white;
+    font-size:15px; 
+    font-size:20px; 
+}
+canvas{
+box-shadow:10px 10px 10px grey;
+border-radius:20px;
+border-width:3px;
+border-color:gray;
+}
+#p{
+    padding:6;
+    color:green;
+    background-color:blue;
+    margin-top:10px;
+    box-shadow:5px 5px 5px white;
+    font-size:15px;
+}
+#back{
+margin-top:450px;
+padding:4px;
+background-color:green;
+color:white;
+font-size:25px;
+}
