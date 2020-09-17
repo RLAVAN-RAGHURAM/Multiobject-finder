@@ -29,32 +29,39 @@ margin-left:150px;
 font-size:20px;
 }
 #s{
-    padding:6;
-    color:green;
-    background-color:blue;
-    margin-top:10px;
-    box-shadow:5px 5px 5px white;
-    font-size:15px; 
-    font-size:20px; 
+padding:6;
+color:green;
+background-color:blue;
+margin-top:10px;
+box-shadow:5px 5px 5px white;
+font-size:15px; 
+font-size:20px; 
 }
 canvas{
 box-shadow:10px 10px 10px grey;
 border-radius:20px;
 border-width:3px;
 border-color:gray;
+margin-top:50px;
 }
 #p{
-    padding:6;
-    color:green;
-    background-color:blue;
-    margin-top:10px;
-    box-shadow:5px 5px 5px white;
-    font-size:15px;
+padding:6;
+color:green;
+background-color:blue;
+margin-top:10px;
+box-shadow:5px 5px 5px white;
+font-size:15px;
 }
 #back{
-margin-top:450px;
+margin-top:490px;
 padding:4px;
 background-color:green;
 color:white;
 font-size:25px;
+}
+#k{
+padding:6px;
+font-size:18px;
+color:black;
+background-color:gray;
 }

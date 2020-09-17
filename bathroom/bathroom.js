@@ -33,6 +33,7 @@ if(status != "")
 {
 for (i=0;i<objects.length;i++)
 {
+document.getElementById("k").innerHTML="Number of objects on picture : "+objects.length;
 document.getElementById("s").innerHTML="status : Object detected";
 fill("#FF0000");
 percentage=floor(objects[i].confidence*100);
